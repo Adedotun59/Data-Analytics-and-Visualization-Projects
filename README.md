@@ -68,3 +68,12 @@ Key Insights Derived:
 	•	Ranking of companies by layoffs per year, along with trends over time.
 
 This EDA process helps to uncover patterns and provides valuable summaries for understanding the layoff trends across various dimensions in the dataset.
+
+
+----- FOR THE EXCEL PROJECT ON DASHBOARD CREATION TO ANALYZE BIKE SALES -----
+The dashboard is designed to provide insights into:
+
+	1.	Customer Profiles: Understanding the demographics of customers who purchased bikes, such as marital status, income, and region.
+	2.	Purchase Behavior: Analyzing the relationship between factors like income, age, education, and bike purchases.
+	3.	Regional Insights: Visualizing how bike purchases vary across different regions.
+	4.	Commute Patterns: Correlating commute distance and car ownership with the likelihood of purchasing a bike.
