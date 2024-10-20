@@ -77,3 +77,6 @@ The dashboard is designed to provide insights into:
 	2.	Purchase Behavior: Analyzing the relationship between factors like income, age, education, and bike purchases.
 	3.	Regional Insights: Visualizing how bike purchases vary across different regions.
 	4.	Commute Patterns: Correlating commute distance and car ownership with the likelihood of purchasing a bike.
+
+----- FOR TABLEAU AIRBNB PROJECT -----
+Open the AirBnB Project 2024.twbx file with Tableau Reader software to interact with visualizations built with Tableau.
